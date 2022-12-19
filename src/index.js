@@ -91,4 +91,5 @@ function Character() {
 
 Option for rolling to build back health only available after a battle and only to a certain number (i.e. 10), after which it will not build on further clicks. 
 
-Levelup will consist of adding attributes, like defense, and builds up 1+, 2+, 3+ on individual attributes per level. So levelup 1 adds defense, levelup 2 adds +1 to strength, levelup 3 adds +1 to strength and health, etc, then levelup 5 adds +2 to stre
+Levelup will consist of adding attributes, like defense, and builds up 1+, 2+, 3+ on individual attributes per level. So levelup 1 adds defense, levelup 2 adds +1 to strength, levelup 3 adds +1 to strength and health, etc, then levelup 5 adds +2 to strength and just loop through it.
+*/
