@@ -1,0 +1,1 @@
+import { diceRoll }  from "../src";
